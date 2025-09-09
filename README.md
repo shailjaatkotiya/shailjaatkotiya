@@ -10,9 +10,9 @@ With a passion for creativity and problem-solving, I thrive on delivering except
 </p>
 
 <div align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailja-atkotiya)](https://www.linkedin.com/in/shailja-atkotiya)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shailjaatkotiya@gmail.com)](mailto:shailjaatkotiya@gmail.com)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white&link=https://shailjaatkotiya.netlify.app)](https://shailjaatkotiya.netlify.app)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailjaatkotiya/)](https://www.linkedin.com/in/shailjaatkotiya/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shailjaatkotiya@gmail.com)](mailto:shailjaatkotiya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome)](https://shailjaatkotiya.netlify.app)
 </div>
 
 ### 🔭 What I'm working on  
