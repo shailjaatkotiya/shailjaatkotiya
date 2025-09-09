@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
-<img src="https://github.com/Shailja2109/Shailja2109/blob/main/screen-capture4-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Shailja Atkotiya Senior Software Engineer"/>
+<img src="https://github.com/Shailja2109/Shailja2109/blob/main/Recording 2025-09-09 224434.mp4" width="100%" alt="Shailja Atkotiya Senior Software Engineer"/>
 
 <p align="center">
 I am Shailja Atkotiya, a Senior Full-Stack Developer with 5+ years of experience specializing in building high-performance, interactive web applications. I have a strong focus on the modern JavaScript ecosystem including React.js, Next.js, TypeScript, and Node.js, combined with advanced 3D visualization skills using WebGL and Three.js. My professional journey includes leading development teams and architecting scalable full-stack solutions, particularly for the Architecture, Engineering, and Construction (AEC) industry.
