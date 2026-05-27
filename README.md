@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-Senior Full-Stack Developer with **5.5+ years** specializing in **high-performance 3D web applications**, interactive visualization, and scalable front-end architecture. I live at the intersection of engineering and visual computing — building production-grade **WebGL / Three.js** systems for the AEC industry, AR/VR platforms, and enterprise CAD configurators.
+Senior Full-Stack Developer with **6+ years** specializing in **high-performance 3D web applications**, interactive visualization, and scalable front-end architecture. I live at the intersection of engineering and visual computing — building production-grade **WebGL / Three.js** systems for the AEC industry, AR/VR platforms, and enterprise CAD configurators.
 
 - 🔭 Currently integrating **SVG-on-3D rendering** into a production Three.js npm library at **Etlok Studios (ValueLabs)**
 - 🏗️ Previously led greenfield frontend of a complex **3D AEC platform** at **Hedral** — React, Next.js, TypeScript, Three.js/R3F, Mapbox, Python GraphQL
